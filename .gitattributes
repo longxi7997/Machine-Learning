@@ -1,7 +1,7 @@
-*.js linguist-language=python
-*.css linguist-language=python
+
 <<<<<<< HEAD
-*.html linguist-language=python
 =======
 *.html linguist-language=python
+*.js linguist-language=python
+*.css linguist-language=python
 >>>>>>> 26ad451373a54b3b1d4321fbc5dc4104a2b945a9
