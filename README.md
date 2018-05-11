@@ -1,2 +1,3 @@
-# Machine-Learning-in-Action
-机器学习实战源码实现，基于 Python3.x，官方实现基于Python2.x
+机器学习相关项目实战代码，包括
+1、《机器学习实战》一书 python3代码实现，官方版本基于 python2
+2、一些比赛的记录
